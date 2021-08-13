@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning Machine Learning and its Algorithms.
 - 👯 I’m looking to collaborate on research based projects that can help solve social issues.
-- 📫 How to reach me: twitter.com/slothushka
+- 📫 How to reach me: http//twitter.com/slothushka
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love writing poetry.Also I adore reading fiction as well as non-fiction.
 
--You can read my technical blogs : medium.com/@pansareanushka99
+-You can read my technical blogs : http//medium.com/@pansareanushka99
