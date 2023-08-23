@@ -9,4 +9,4 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love writing poetry. Also, I adore reading fiction as well as non-fiction.
 
--You can read my technical blogs: https://medium.com/@pansareanushka99
+-You can read my technical blogs: https://medium.com/@slothushka
