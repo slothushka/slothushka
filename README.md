@@ -48,12 +48,16 @@
 ### 🌸 GitHub Highlights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnushkaPansare&show_icons=true&theme=calm_pink&hide_border=true&bg_color=FDF6F0&title_color=FF9A8B&icon_color=A1CCD1&text_color=7C7C7C" alt="Anushka's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AnushkaPansare&theme=vue-dark&hide_border=true&background=FDF6F0&ring=FF9A8B&fire=FF9A8B&currStreakLabel=FF9A8B" alt="Anushka's Streak Stats" />
+  <!-- Main Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=slothushka&show_icons=true&theme=calm_pink&hide_border=true&bg_color=FDF6F0&title_color=FF9A8B&icon_color=A1CCD1&text_color=7C7C7C" alt="GitHub Stats" />
+
+  <!-- Streak -->
+  <img width="48%" src="https://streak-stats.demolab.com?user=slothushka&theme=calm_pink&hide_border=true&background=FDF6F0&ring=FF9A8B&fire=FF9A8B&currStreakLabel=FF9A8B" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaPansare&layout=compact&hide_border=true&bg_color=FDF6F0&title_color=A1CCD1&text_color=7C7C7C" alt="Top Languages" />
+  <!-- Languages -->
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slothushka&layout=compact&hide_border=true&bg_color=FDF6F0&title_color=A1CCD1&text_color=7C7C7C" alt="Top Languages" />
 </p>
 
 ---
