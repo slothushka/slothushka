@@ -25,7 +25,7 @@
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,hibernate,maven" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 </p>
 
 #### 🗄️ Database & Tools
@@ -75,5 +75,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B5E8E0&center=true&vCenter=true&width=550&lines=Code+with+Purpose+🌿;Create+with+Passion+💫;Innovate+with+Kindness+🌸" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A55FF&width=500&lines=Code%2C+Create%2C+Innovate%2C+Repeat.+%F0%9F%92%AB" alt="Typing animation" />
 </p>
+
