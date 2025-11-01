@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Pansare</h1>
-<h3 align="center">A Computer Engineering Undergraduate from Mumbai, India 🇮🇳</h3>
+<h3 align="center">A Computer Engineering Graduate from Mumbai, India 🇮🇳</h3>
 
 ---
 
