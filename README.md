@@ -10,7 +10,7 @@
 🎯 Currently diving deep into **Artificial Intelligence**, **Machine Learning**, and **Cloud Architecture**.  
 🌱 Always curious — I love turning ideas into intelligent, scalable applications.  
 💬 Let’s connect about **Java | Spring Boot | Angular | AWS | Data Analytics**  
-📍 Based in **Mumbai, India**  
+📍 Based in **Pune, India**  
 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/anushka-pansare-7b89861a3/)  
 📝 Check out my tech blogs on [**Medium**](https://medium.com/@slothushka)  
 
@@ -87,5 +87,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A55FF&width=500&lines=Code.+Create.+Innovate.+Repeat.💫" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A55FF&width=500&lines=Code%2C+Create%2C+Innovate%2C+Repeat.+%F0%9F%92%AB" alt="Typing animation" />
 </p>
